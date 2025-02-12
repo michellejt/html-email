@@ -27,6 +27,7 @@ export default function EmailActions() {
         <button
           onClick={copyEmailToClipboard}
           style={{ padding: "10px", fontSize: "16px" }}
+          className="btn animate"
         >
           Copy Email HTML
         </button>
@@ -35,7 +36,6 @@ export default function EmailActions() {
       <div
         dangerouslySetInnerHTML={{ __html: EmailTemplate() }}
         style={{
-          border: "1px solid #ddd",
           padding: "20px",
           marginBottom: "20px",
         }}
