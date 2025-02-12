@@ -1,4 +1,12 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This is a simple little HTML Email you can copy and paste into your email client, and make your own.
+
+[Check it out!](https://html-email-copy-to-clipboard.netlify.app/)
+
+Want to send HTML emails via Gmail? [Try the Send HTML in Gmail Chrome extension](https://chromewebstore.google.com/detail/send-html-in-gmail/ipaogmomajeofkdpcmmjgilnblolomhb)
+
+![](https://github.com/michellejt/html-email/blob/master/public/screen-recording.gif)
+
+[Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
 
